@@ -1,0 +1,25 @@
+﻿  main.c
+D:\MyProjects\C\Programs\CubeGame\CubeGame\main.h(30,61): warning C4305: инициализация: усечение из "double" в "GLfloat"
+D:\MyProjects\C\Programs\CubeGame\CubeGame\main.c(22,23): warning C4244: функция: преобразование "float" в "GLsizei", возможна потеря данных
+D:\MyProjects\C\Programs\CubeGame\CubeGame\main.c(22,26): warning C4244: функция: преобразование "float" в "GLsizei", возможна потеря данных
+D:\MyProjects\C\Programs\CubeGame\CubeGame\main.c(37,12): warning C4305: функция: усечение из "double" в "float"
+D:\MyProjects\C\Programs\CubeGame\CubeGame\main.c(38,41): warning C4305: функция: усечение из "double" в "float"
+D:\MyProjects\C\Programs\CubeGame\CubeGame\main.c(41,24): warning C4305: +=: усечение из "double" в "float"
+D:\MyProjects\C\Programs\CubeGame\CubeGame\main.c(44,24): warning C4305: -=: усечение из "double" в "float"
+D:\MyProjects\C\Programs\CubeGame\CubeGame\main.c(52,39): warning C4133: функция: несовместимые типы - из "unsigned char *" в "GLuint *"
+D:\MyProjects\C\Programs\CubeGame\CubeGame\main.c(75,33): warning C4244: функция: преобразование "double" в "GLint", возможна потеря данных
+D:\MyProjects\C\Programs\CubeGame\CubeGame\main.c(75,51): warning C4244: функция: преобразование "double" в "GLint", возможна потеря данных
+D:\MyProjects\C\Programs\CubeGame\CubeGame\main.c(179,21): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\MyProjects\C\Programs\CubeGame\CubeGame\main.c(228,54): warning C4244: функция: преобразование "GLuint" в "GLfloat", возможна потеря данных
+D:\MyProjects\C\Programs\CubeGame\CubeGame\main.c(228,76): warning C4244: функция: преобразование "GLuint" в "GLfloat", возможна потеря данных
+D:\MyProjects\C\Programs\CubeGame\CubeGame\main.c(228,98): warning C4244: функция: преобразование "GLuint" в "GLfloat", возможна потеря данных
+D:\MyProjects\C\Programs\CubeGame\CubeGame\main.c(247,24): warning C4244: функция: преобразование "LONG" в "float", возможна потеря данных
+D:\MyProjects\C\Programs\CubeGame\CubeGame\main.c(247,36): warning C4244: функция: преобразование "LONG" в "float", возможна потеря данных
+D:\MyProjects\C\Programs\CubeGame\CubeGame\main.c(261,26): warning C4305: функция: усечение из "double" в "GLclampf"
+D:\MyProjects\C\Programs\CubeGame\CubeGame\main.c(261,32): warning C4305: функция: усечение из "double" в "GLclampf"
+D:\MyProjects\C\Programs\CubeGame\CubeGame\main.c(261,38): warning C4305: функция: усечение из "double" в "GLclampf"
+D:\MyProjects\C\Programs\CubeGame\CubeGame\main.c(273,32): warning C4305: функция: усечение из "double" в "GLfloat"
+D:\MyProjects\C\Programs\CubeGame\CubeGame\main.c(274,22): warning C4305: функция: усечение из "double" в "GLfloat"
+D:\MyProjects\C\Programs\CubeGame\CubeGame\main.c(274,28): warning C4305: функция: усечение из "double" в "GLfloat"
+D:\MyProjects\C\Programs\CubeGame\CubeGame\main.c(274,34): warning C4305: функция: усечение из "double" в "GLfloat"
+  CubeGame.vcxproj -> D:\MyProjects\C\Programs\CubeGame\Debug\CubeGame.exe
